@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLsjPbipaTS07IBEWGYDhP87+CCMXMU4uUMGl5h9ajLj41OAPYwwgNMDmmuDQ+pvKGxYUKAhWufb7XT5QZRmQA==",
+  "success": true,
+  "projectFilePath": "C:\\console-app\\console-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
