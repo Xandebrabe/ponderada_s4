@@ -12,7 +12,6 @@ class Program
         Console.WriteLine("Press any key to exit");
         while(!Console.KeyAvailable)
         {
-            // Pretend our store has a transaction each second that sells 4 hats
             Thread.Sleep(1000);
             s_hatsSold.Add(4);
         }

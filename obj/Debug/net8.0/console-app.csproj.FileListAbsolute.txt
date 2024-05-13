@@ -15,3 +15,4 @@ C:\console-app\obj\Debug\net8.0\refint\console-app.dll
 C:\console-app\obj\Debug\net8.0\console-app.pdb
 C:\console-app\obj\Debug\net8.0\console-app.genruntimeconfig.cache
 C:\console-app\obj\Debug\net8.0\ref\console-app.dll
+C:\console-app\obj\Debug\net8.0\console-app.sourcelink.json
